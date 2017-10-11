@@ -6,6 +6,7 @@ From 09/2015 to 02/2018 Semyong Computer HighSchool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 * Craftsman Web Design
 * ICDL Start Certificate
 * Completion of Uracle hybrid mobile platform curriculum &nbsp;&nbsp;&nbsp;&nbsp;September 13, 2017 ~ September 14, 2017
+
 ## Experience
 ### Team
 * R Inc&nbsp;&nbsp;&nbsp;&nbsp;March, 2017 ~
