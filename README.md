@@ -1,4 +1,4 @@
-# SeongHoon Kim(tjdgnsqn133@gmail.com)
+# SeongHoon Kim(tjdgnsqn133@gmail.com) [Blog](http://ksh-code.tistory.com)
 
 ## Educations
 From 09/2015 to 02/2018 Semyong Computer HighSchool&nbsp;&nbsp;&nbsp;&nbsp;Seoul, Korea
