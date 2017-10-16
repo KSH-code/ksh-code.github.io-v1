@@ -34,7 +34,8 @@ From 09/2015 to 02/2018 Semyong Computer HighSchool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 * (S) Software education for future at HandsOn Campus &nbsp;&nbsp;&nbsp;&nbsp;July 7, 2016 
 
 ### Study Group
-* Algorithm &nbsp;&nbsp;&nbsp;&nbsp;September 2, 2017 ~
+* Pyhton & AWS &nbsp;&nbsp;&nbsp;&nbsp;October 14, 2017 ~
+* Algorithms &nbsp;&nbsp;&nbsp;&nbsp;September 2, 2017 ~
 * Vue js &nbsp;&nbsp;&nbsp;&nbsp;June 21, 2017 ~ July 5, 2017 
 
 ### Club
