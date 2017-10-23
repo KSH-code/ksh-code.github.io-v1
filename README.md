@@ -1,7 +1,7 @@
 # SeongHoon Kim(tjdgnsqn133@gmail.com) [Blog](http://ksh-code.tistory.com)
 
 ## Educations
-From 09/2015 to 02/2018 Semyong Computer HighSchool&nbsp;&nbsp;&nbsp;&nbsp;Seoul, Korea
+From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul, Korea
 
 ## Certifications
 * Craftsman Information Processing
@@ -53,11 +53,11 @@ From 09/2015 to 02/2018 Semyong Computer HighSchool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 |-|-|-|
 |[Joongumdan](http://m.joongum.co.kr)|Developed Mobile Web Front|2017|
 |[ens.rinc.kr](http://ens.rinc.kr)|Developed Web Front & Back|2017|
-|[AppJam(Hackathon)](https://github.com/KSH-code/appjam-13)|Developed Server|2017|
+|[AppJam(Hackathon)](https://github.com/KSH-code/appjam-13)|Developed Web Server|2017|
 |[Moving Stickers](https://play.google.com/store/apps/details?id=com.netdiver.MovingStickers)|Developed Client|2017|
-### Contributed repository
+### Contributed Project
 |Link|Description|Year|
 |-|-|-|
 |[DefinitelyTyped](https://github.com/KSH-code/DefinitelyTyped)|Typescript With React|2017|
 |[BOJ Tier](https://github.com/KSH-code/BOJ-tier)|BOJ Rank System|2017|
-|[Semantic-UI Docs](https://github.com/KSH-code/Semantic-UI-Docs)|BOJ Rank System|2017|
+|[Semantic-UI Docs](https://github.com/KSH-code/Semantic-UI-Docs)|Semantic UI Document|2017|
