@@ -58,6 +58,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Contributed Project
 |Link|Description|Year|
 |-|-|-|
+|[algorithm_basic_java](https://github.com/KSH-code/algorithm_basic_java)|Introduce Algorithms basic|2017|
 |[DefinitelyTyped](https://github.com/KSH-code/DefinitelyTyped)|Typescript With React|2017|
 |[BOJ Tier](https://github.com/KSH-code/BOJ-tier)|BOJ Rank System|2017|
 |[Semantic-UI Docs](https://github.com/KSH-code/Semantic-UI-Docs)|Semantic UI Document|2017|
