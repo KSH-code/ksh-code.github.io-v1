@@ -30,6 +30,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Seminar & Coference & Party(?)
 |Type|Name|Date|
 |-|-|-|
+|Conference|React Seoul|November 4,2017|
 |Conference|FEConf|October 21,2017|
 |Seminar|Web Tech Concert|August 19, 2017|
 |Party|Campus Recruting Day (Google & Wanted)|August 10, 2017|
