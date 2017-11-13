@@ -6,23 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>KSH-Code(SeongHoon Kim)</title>
-    <style>
-        body {
-            text-align: center;
-            font-family: '맑은 고딕', 'Malgun Gothic', 'Noto Sans', sans-serif !important;
-            color: #333;
-        }
-        
-        .border {
-            padding-bottom: 50px;
-            border-bottom: 1px solid #ccc;
-        }
-        
-        table {
-            border-collapse: collapse;
-            margin: 0 auto;
-        }
-    </style>
+    <link href="style.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="script.js"></script>
 </head>
 
 <body>
@@ -30,17 +16,17 @@
     <div class="border">
         <h2>Educations</h2>
         <table>
-            <tr>
+            <tr class="bt">
                 <td>Semyong Computer Highschool</td>
                 <td>From 09/2015 to 02/2018</td>
             </tr>
         </table>
     </div>
     <div class="border">
-        <h2>Certifications</h2>
-        <table border="1">
+        <h3>Certifications</h3>
+        <table>
             <tr>
-                <td>Craftsman Information Processing</td>
+                <td class="bt">Craftsman Information Processing</td>
             </tr>
             <tr>
                 <td>Craftsman Web Design</td>
@@ -54,9 +40,9 @@
         </table>
     </div>
     <div class="border">
-        <h2>Experience</h2>
+        <h3>Experience</h3>
         <h3>Team</h3>
-        <table border="1">
+        <table>
             <tr>
                 <th>Name</th>
                 <th>Term</th>
@@ -67,7 +53,7 @@
             </tr>
         </table>
         <h3>Company</h3>
-        <table border="1">
+        <table>
             <tr>
                 <th>Name</th>
                 <th>Term</th>
@@ -82,7 +68,7 @@
             </tr>
         </table>
         <h3>Contest & Competition & Award</h3>
-        <table border="1">
+        <table>
             <tr>
                 <th>Type</th>
                 <th>Description</th>
@@ -115,7 +101,7 @@
             </tr>
         </table>
         <h3>Seminar & Coference & Party(?)</h3>
-        <table border="1">
+        <table>
             <tr>
                 <th>Type</th>
                 <th>Name</th>
@@ -158,7 +144,7 @@
             </tr>
         </table>
         <h3>Study Group</h3>
-        <table border="1">
+        <table>
             <tr>
                 <th>What</th>
                 <th>Term</th>
@@ -196,57 +182,57 @@
             </tr>
         </table>
         <h3>Project</h3>
-        <table border="1">
+        <table class="link-table">
             <tr>
                 <th>Link</th>
                 <th>Description</th>
                 <th>Year</th>
             </tr>
-            <tr>
-                <td><a href="http://m.joongum.co.kr">중검단</a></td>
+            <tr data-url="http://m.joongum.co.kr">
+                <td>중검단</td>
                 <td>Developed Mobile Web Front</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="http://ens.rinc.kr">ENS</a></td>
+            <tr data-url="http://ens.rinc.kr">
+                <td>ENS</td>
                 <td>Developed Web Front & Back</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/KSH-code/appjam-13">AppJam(Hackathon)</a></td>
+            <tr data-url="https://github.com/KSH-code/appjam-13">
+                <td>AppJam(Hackathon)</td>
                 <td>Developed Web Server</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="https://play.google.com/store/apps/details?id=com.netdiver.MovingStickers">Moving Stickers</a></td>
+            <tr data-url="https://play.google.com/store/apps/details?id=com.netdiver.MovingStickers">
+                <td>Moving Stickers</td>
                 <td>Developed Client</td>
                 <td>2017</td>
             </tr>
         </table>
         <h3>Contributed Project</h3>
-        <table border="1">
+        <table class="link-table">
             <tr>
                 <th>Link</th>
                 <th>Description</th>
                 <th>Year</th>
             </tr>
-            <tr>
-                <td><a href="https://github.com/KSH-code/algorithm_basic_java">algorithm_basic_java</a></td>
+            <tr data-url="https://github.com/KSH-code/algorithm_basic_java">
+                <td>algorithm_basic_java</td>
                 <td>Introduce Algorithms basic</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/KSH-code/DefinitelyTyped">DefinitelyTyped</a></td>
+            <tr data-url="https://github.com/KSH-code/DefinitelyTyped">
+                <td>DefinitelyTyped</td>
                 <td>Typescript With React</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/KSH-code/BOJ-tier">BOJ Tier</a></td>
+            <tr data-url="https://github.com/KSH-code/BOJ-tier">
+                <td>BOJ Tier</td>
                 <td>BOJ Rank System</td>
                 <td>2017</td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/KSH-code/Semantic-UI-Docs">Semantic-UI Docs</a></td>
+            <tr data-url="https://github.com/KSH-code/Semantic-UI-Docs">
+                <td>Semantic-UI Docs</td>
                 <td>Semantic UI Document</td>
                 <td>2017</td>
             </tr>
