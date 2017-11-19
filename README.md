@@ -64,3 +64,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 |[DefinitelyTyped](https://github.com/KSH-code/DefinitelyTyped)|Typescript With React|2017|
 |[BOJ Tier](https://github.com/KSH-code/BOJ-tier)|BOJ Rank System|2017|
 |[Semantic-UI Docs](https://github.com/KSH-code/Semantic-UI-Docs)|Semantic UI Document|2017|
+## Test & Examination
+|Name|Date|
+|-|-|-|
+|Topcit|November 18, 2017|
