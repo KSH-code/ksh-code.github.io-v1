@@ -41,7 +41,7 @@ table tr {
 }
 
 table tr:hover {
-    background-color: #333333;
+    background-color: #ff444f;
     color: #ffffff;
 }
 table tr:hover td,table tr:hover a{
@@ -51,6 +51,8 @@ table tr:hover td,table tr:hover a{
 table th {
     padding-top: 10px;
     padding-bottom: 10px;
+    background: #333333 !important;
+    color: #fff !important;
 }
 
 h3 {
