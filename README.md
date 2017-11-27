@@ -30,7 +30,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Seminar & Coference & Party(?)
 |Type|Name|Date|
 |-|-|-|
-|Conference|Microsoft Coference|November 25,2017|
+|Conference|Microsoft Developer Coference|November 25,2017|
 |Conference|Jetbrains Night Seoul|November 21,2017|
 |Conference|React Seoul|November 4,2017|
 |Conference|FEConf|October 21,2017|
@@ -42,13 +42,13 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Study Group
 |What|Term|
 |-|-|
-|Algorithms Club(1DP)|November 20, 2017 ~|
+|Algorithms|September 2, 2017 ~ November 27, 2017|
 |Pyhton & AWS|October 14, 2017 ~ November 19, 2017|
-|Algorithms|September 2, 2017 ~|
 |Vue js|June 21, 2017 ~ July 5, 2017|
 ### Club
 |Name|Term|
 |-|-|
+|Algorithms Club(1DP)|November 20, 2017 ~|
 |Web OZ|March, 2017 ~ March, 2018|
 |Game Maker|March, 2016 ~ March, 2017|
 |SSAP|September, 2015 ~ March, 2016|
