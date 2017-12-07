@@ -55,6 +55,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ## Projects
 |Link|Description|Year|
 |-|-|-|
+|[VerifyWebServer](https://github.com/KSH-code/VerifyWebServer)|Developed Client|2017|
 |[GSW](http://)|Web Published KIA computational platform|November 1, 2017 ~ November 30, 2017|
 |[Joongumdan](http://m.joongum.co.kr)|Developed Mobile Web Front|2017|
 |[ens.rinc.kr](http://ens.rinc.kr)|Developed Web Front & Back|2017|
