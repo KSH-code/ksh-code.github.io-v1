@@ -17,7 +17,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Company
 |Name|Term|
 |-|-|
-|Udtech|September 4, 2017 ~|
+|Udtech|September 4, 2017 ~ November 29, 2017|
 |Netdiver|December, 2016 ~ February, 2017|
 ### Contest & Competition & Award
 |Type|Description|Year|
