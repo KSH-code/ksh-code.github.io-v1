@@ -17,6 +17,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Company
 |Name|Term|
 |-|-|
+|Nurigo|December 18, 2017 ~|
 |Udtech|September 4, 2017 ~ November 29, 2017|
 |Netdiver|December, 2016 ~ February, 2017|
 ### Contest & Competition & Award
@@ -30,6 +31,7 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Seminar & Coference & Party(?)
 |Type|Name|Date|
 |-|-|-|
+|Conference|Functional JS|January 6,2018|
 |Conference|Microsoft Developer Coference|November 25,2017|
 |Conference|Jetbrains Night Seoul|November 21,2017|
 |Conference|React Seoul|November 4,2017|
