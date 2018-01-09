@@ -23,8 +23,9 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 ### Contest & Competition & Award
 |Type|Description|Year|
 |-|-|-|
+|장려상|앱잼(Smarteen App Club) 14th - 해커톤|December.16.2017|
 |Passed|Kakao first blind test|2017|
-|Won|Smarteen App Challenge|2017|
+|우수상|[Smarteen App Challenge](/assets/stac2017.pdf)|2017|
 |Won|First prize at algorithm contest at my high school|2016|
 |Enterd|Final at Kookmin University algorithms contest|2016|
 |Rank 20th|Codigm|2016|
