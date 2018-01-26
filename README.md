@@ -75,5 +75,5 @@ From 09/2015 to 02/2018 Semyong Computer Highschool&nbsp;&nbsp;&nbsp;&nbsp;Seoul
 |[Semantic-UI Docs](https://github.com/KSH-code/Semantic-UI-Docs)|Semantic UI Document|2017|
 ## Test & Examination
 |Name|Date|
-|-|-|-|
+|-|-|
 |Topcit|November 18, 2017|
